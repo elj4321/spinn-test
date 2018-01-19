@@ -1,1 +1,1 @@
-# spinn-test
+# Simple project for spinn-test
